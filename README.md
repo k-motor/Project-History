@@ -1,7 +1,7 @@
 # Project-History
 This is my development footstep.
 
-## HYUNDAI PMSM AD Motor Control
+## HYUNDAI PMSM AD Motor Control ## HYUNDAI PMSM AD Motor Control
 <img src = "https://user-images.githubusercontent.com/95323172/144188101-dd5bcf09-83d6-4820-b0d0-6f38ed6b34a1.gif" width="30%" height="30%">
 
 ## DC Motor/TAS Sensor Reliability Testing
