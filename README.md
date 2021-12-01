@@ -13,4 +13,8 @@ This is my development footstep.
 ## CCP/UDS diagnostic communication development
 <img src = "https://user-images.githubusercontent.com/95323172/144188241-c849d220-690b-4be8-ba45-184140d1693d.png" width="30%" height="30%">
 
+## DC type C-EPS electric vehicle steering system test
 <img src = "https://user-images.githubusercontent.com/95323172/144188250-a5d5de3d-839b-4cc3-a146-969596d6cf96.png" width="30%" height="30%">
+
+## Electric seat bldc motor control
+<img src = "https://user-images.githubusercontent.com/95323172/144189799-fdbf97a9-8d64-4ebb-b34f-3f564f82d2a0.png" width="30%" height="30%">
